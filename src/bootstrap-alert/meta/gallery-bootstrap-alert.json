@@ -1,0 +1,10 @@
+{
+    "bootsgtrap-gallery-alert": {
+        "use": [
+            "plugin",
+            "transition",
+            "event",
+            "event-delegate"
+        ]
+    }
+}

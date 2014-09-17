@@ -1,0 +1,10 @@
+{
+    "name": "gallery-bootstrap-alert",
+    "builds": {
+        "gallery-bootstrap-alert": {
+            "jsfiles": [
+                "bootstrap-alert.js"
+            ]
+        }
+    }
+}
